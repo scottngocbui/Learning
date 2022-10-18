@@ -1,0 +1,116 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+h2{
+    font-size:2rem;
+}
+
+header > img {
+    display:inline-block;
+    width: 30%;
+    height: auto;
+    margin-left: 35%;
+}
+
+
+nav ul{
+    list-style: none;
+    text-align:center;
+    width: 100%;
+    padding-left: 0px;
+    font-size: 1.5rem;
+    background-color: #d0604c;
+    border-radius: 25px;
+}
+
+nav li{
+    display:inline-block;
+    margin:20px;
+    color: #f2e0d2;
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    background-color: #d0604c;
+    color: #f2e0d2;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+section {
+    display:flex;
+    text-align: center;
+}
+
+section.first{
+    background-image: url("https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80");
+    border-radius: 25px;
+    color:white;
+    background-size: cover;
+    background-position-y: 35%;
+    padding: 2%;
+}
+
+section > article.second{
+    background-color: #d0604c;
+    border-radius: 24px;
+    padding:2%;
+    margin-right: 16px;
+    color: #f2e0d2;
+}
+
+article.second > img {
+    width:100%;
+}
+
+section > article.third{
+    background-color: #d0604c;
+    border-radius: 24px;
+    margin-left: 8px;
+    margin-right: 8px;
+    padding:2%;
+    color: #f2e0d2;
+}
+article.third > img {
+    width: 100%;
+}
+
+section > article.fourth{
+    background-color: #d0604c;
+    border-radius: 24px;
+    margin-left:16px;
+    padding:2%;
+    color: #f2e0d2;
+}
+
+article.fourth > img {
+    width: 100%
+}
+
+article{
+    margin-top: 32px;
+    margin-bottom: 32px;
+    flex:1;
+    text-align: left;
+
+}
+
+footer {
+    display: flex;
+}
+
+footer div {
+    flex: 1;
+}
