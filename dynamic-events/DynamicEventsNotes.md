@@ -116,4 +116,4 @@ function handleChange(e) {
 
 Then, clicking the reset button will update the `inputText` button to "hello".
 
-- `inputText' is local state
+- `inputText` is local state
