@@ -16,11 +16,11 @@ By the end of this course you will be able to:
 
 ## [**Week 1: Introduction to UX / UI**](#introduction-to-ux--ui)
 
-[x] [Differentiate between UX and UI design](#what-is-ux)
+- [x] [Differentiate between UX and UI design](#what-is-ux)
 
-[x] [Define UX goals and explain its quality components](#ux-goals--quality-components)
+- [x] [Define UX goals and explain its quality components](#ux-goals--quality-components)
 
-[x] Explain the UX process. 
+- [x] Explain the UX process. 
 
 [] Evaluate interactive designs and create a modern user interface. 
 
