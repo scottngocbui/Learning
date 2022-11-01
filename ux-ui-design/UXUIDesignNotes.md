@@ -6,13 +6,13 @@ The course introduces you to digital User Experience (UX) and User Interface (UI
 
 By the end of this course you will be able to: 
 
-- [] Design digital products that create value and solve a user's problems in meaningful ways.
+- [ ] Design digital products that create value and solve a user's problems in meaningful ways.
 
-- [] Recognize what constitutes successful UX/UI and evaluate existing interfaces for design consistency and quality
+- [ ] Recognize what constitutes successful UX/UI and evaluate existing interfaces for design consistency and quality
 
-- [] Identify best practice interaction design methods and evaluate and improve your own and others' designs
+- [ ] Identify best practice interaction design methods and evaluate and improve your own and others' designs
 
-- [] Create, share and test your UX / UI designs following best practice guidelines 
+- [ ] Create, share and test your UX / UI designs following best practice guidelines 
 
 ## [**Week 1: Introduction to UX / UI**](#introduction-to-ux--ui)
 
@@ -22,83 +22,83 @@ By the end of this course you will be able to:
 
 - [x] Explain the UX process. 
 
-- [] Evaluate interactive designs and create a modern user interface. 
+- [ ] Evaluate interactive designs and create a modern user interface. 
 
-- [] Explain the concepts of the UI component of UX/UI and describe its history. 
+- [ ] Explain the concepts of the UI component of UX/UI and describe its history. 
 
-- [] Identify applications of UI. 
+- [ ] Identify applications of UI. 
 
-- [] Recognize the importance of successful UI design. 
+- [ ] Recognize the importance of successful UI design. 
 
-- [] Create a Figma account. 
+- [ ] Create a Figma account. 
 
-- [] Identify how to use user interviews and observations. 
+- [ ] Identify how to use user interviews and observations. 
 
-- [] Explore a customer journey map. 
+- [ ] Explore a customer journey map. 
 
-- [] Identify tools in user research. 
+- [ ] Identify tools in user research. 
 
-- [] Describe the role of user research tools in the empathize stage.
+- [ ] Describe the role of user research tools in the empathize stage.
 
 ## **Week 2: Evaluating Interactive Design**
 
-- [] Describe popular evaluation methodologies. 
+- [ ] Describe popular evaluation methodologies. 
 
-- [] Explain how the evaluation methodologies can be applied to improve your designs. 
+- [ ] Explain how the evaluation methodologies can be applied to improve your designs. 
 
-- [] Explain the importance of good form design
+- [ ] Explain the importance of good form design
 
--[] Implement best practices to strengthen form design. 
+- [ ] Implement best practices to strengthen form design. 
 
--[] Evaluate a website. 
+- [ ] Evaluate a website. 
 
-- [] Use evaluation methods and interface guidelines. 
+- [ ] Use evaluation methods and interface guidelines. 
 
-- [] Evaluate your content and structure based on usability. 
+- [ ] Evaluate your content and structure based on usability. 
 
-- [] Explain navigation best practices. 
+- [ ] Explain navigation best practices. 
 
 ## **Week 3: Applied Design Fundamentals**
 
-- [] Explore how to use the layers panel in Figma. 
+- [ ] Explore how to use the layers panel in Figma. 
 
-- [] Identify how to duplicate, scale, group and align elements. 
+- [ ] Identify how to duplicate, scale, group and align elements. 
 
-- [] Create a responsive grid system. 
+- [ ] Create a responsive grid system. 
 
-- [] Describe the concepts of wireframing. 
+- [ ] Describe the concepts of wireframing. 
 
-- [] Design wireframes using Figma. 
+- [ ] Design wireframes using Figma. 
 
-- [] Define usability testing. 
+- [ ] Define usability testing. 
 
-- [] Describe the different types of usability testing. 
+- [ ] Describe the different types of usability testing. 
 
 ## **Week 4: Design your UI**
 
-- [] Recognize how to use images, colors and shapes. 
+- [ ] Recognize how to use images, colors and shapes. 
 
-- [] Explain the role of images, colors and shapes in design. 
+- [ ] Explain the role of images, colors and shapes in design. 
 
-- [] Name and explain what design systems and UI kits are. 
+- [ ] Name and explain what design systems and UI kits are. 
 
-- [] Differentiate between design systems and UI kits. 
+- [ ] Differentiate between design systems and UI kits. 
 
-- [] Explain best practice design for design systems and UI kits. 
+- [ ] Explain best practice design for design systems and UI kits. 
 
-- [] Explain what atomic design is. 
+- [ ] Explain what atomic design is. 
 
-- [] Create interactive prototypes using high-fidelity designs. 
+- [ ] Create interactive prototypes using high-fidelity designs. 
 
-- [] Describe how these prototypes are animated and shared.
+- [ ] Describe how these prototypes are animated and shared.
 
 ## **Week 5: Graded Assessment**
 
-- [] Create a paper prototype wireframe. 
+- [ ] Create a paper prototype wireframe. 
 
-- [] Design a prototype for a new table reservation flow in Figma. 
+- [ ] Design a prototype for a new table reservation flow in Figma. 
 
-- [] Write a test script based on your wireframe and prototype.
+- [ ] Write a test script based on your wireframe and prototype.
 
 # ***Introduction to UX / UI***
 
