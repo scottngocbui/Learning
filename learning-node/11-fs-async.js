@@ -1,3 +1,5 @@
+// task get offloaded and will move onto the next task while the current task is working on the backend
+
 const {readFile, writeFile} = require('fs')
 
 console.log('start')
@@ -27,3 +29,10 @@ readFile('./content/first.txt', 'utf-8', (err, result)=>{
     })
 })
 console.log('starting next task')
+
+/*
+prints out:
+'start'
+'starting next task'
+'done with this task'
+ */
