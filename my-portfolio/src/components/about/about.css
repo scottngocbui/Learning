@@ -31,24 +31,22 @@
 }
 
 .about_card {
-    color: var(--color-primary);
+    background: var(--color-bg);
     border: 1px solid transparent;
     border-radius: 2rem;
     padding: 2rem;
     text-align: center;
-    border: 1px solid var(--color-primary);
 }
 
 .about_card:hover {
-    background: var(--color-white);
-    color: var(--color-bg);
-    border-color: transparent;
+    background: var(--color-bg);
+    border-color: var(--color-primary-varient);
     transition: var(--transition);
     cursor: pointer;
 }
 
 .about_icon {
-    color: var(--color-primary);
+    color: var(--color-primary-varient);
     font-size: 1.4rem;
     margin-bottom: 1rem;
 }

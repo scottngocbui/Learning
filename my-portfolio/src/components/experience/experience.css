@@ -5,7 +5,7 @@
 }
 
 .experience_container > div {
-    background: var(--color-bg-varient);
+    background: var(--color-bg);
     padding: 2.4rem 5rem;
     border-radius: 2rem;
     border: 1px solid transparent;
@@ -13,7 +13,7 @@
 }
 
 .experience_container > div:hover {
-    background: transparent;
+    background: var(--color-bg);
     border-color: var(--color-primary-varient);
     cursor: default;
 }
@@ -29,4 +29,11 @@
     grid-template-columns: 1fr 1fr;
     row-gap: 2rem;
 }
-
+.experience_details {
+    display:flex;
+    gap: 1rem;
+}
+.experience_details-icons {
+    margin-top: 3px;
+    color:var(--color-primary)
+}
